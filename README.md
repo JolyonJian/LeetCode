@@ -13,3 +13,7 @@ Problem solving record of LeetCode
 [1512 好数对的数目](https://github.com/JolyonJian/LeetCode/blob/master/Array/好数对的数目.md)
 
 [1431 拥有最多糖果的孩子](https://github.com/JolyonJian/LeetCode/blob/master/Array/拥有最多糖果的孩子.md)
+
+[1470 重新排列数组](https://github.com/JolyonJian/LeetCode/blob/master/Array/重新排列数组.md)
+
+[1486 数组异或操作](https://github.com/JolyonJian/LeetCode/blob/master/Array/数组异或操作.md)
