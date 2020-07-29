@@ -17,3 +17,7 @@ Problem solving record of LeetCode
 [1470 重新排列数组](https://github.com/JolyonJian/LeetCode/blob/master/Array/重新排列数组.md)
 
 [1486 数组异或操作](https://github.com/JolyonJian/LeetCode/blob/master/Array/数组异或操作.md)
+
+[面试题01.01 判定字符是否唯一](https://github.com/JolyonJian/LeetCode/blob/master/Array/判定字符是否唯一.md)
+
+[剑指Offer 03 数组中重复的数字](https://github.com/JolyonJian/LeetCode/blob/master/Array/数组中重复的数字.md)
